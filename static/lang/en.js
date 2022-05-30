@@ -88,6 +88,7 @@ module.exports = {
         nft_0_2:'Nnreceived',
         nft_1:'First pitch time:',
         nft_2:'Address:',
+        nft_2_1:'Publisher: HOY Platform',
         nft_3:'Detailed Rules for Voluntary Lock-in Consensus among Believers',
         nft_4:'In order to take the road of common prosperity, better reflect DEFI financial thinking concept, to create a community of interests, the majority of rabbit friends actively respond to the consensus call, initiated by the player voluntary lockup. In order to ensure the stability of HBY and CHE value and better value consensus, and better protect and guarantee the interests of the majority of consensus, believers and shareholders, this detailed rules is specially formulated.',
         nft_5:'1. voluntary lock-in HBY, CHE mainly by the community, other shareholders and rabbit friends as auxiliary voluntary lock-in le donation mentality, donate more donate less follow the voluntary principle, early HBY 10 billion as a unit lock-in, CHE as a unit. There is no limit on the smart contract DAO.',
