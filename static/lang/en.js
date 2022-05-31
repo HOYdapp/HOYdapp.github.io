@@ -81,6 +81,7 @@ module.exports = {
         f_59:'senior',
         f_60:'My total lock-up',
         f_61:'Release rate',
+        f_61_0:'Remaining frozen quantity',
         f_61_1:'Cumulative release quantity',
         f_61_2:'Release time',
         nft_0:'Card status:',
