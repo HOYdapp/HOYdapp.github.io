@@ -5,6 +5,7 @@ module.exports = {
         f_3:'Destroyed',
         f_4:'Price',
         f_4_1:'Current market',
+        f_4_2:'Cisterna basalis',
         f_5:'K line',
         f_6:'Trade/LP',
         f_7:'PLEDGE MINING',
