@@ -27,6 +27,7 @@ module.exports = {
         f_20:'Total amount destroyed:',
         f_21:'Immediate destruction',
         f_22:'Destroy CHE to get HOY',
+        f_22_1:'Destroy HOY to get HOY',
         f_23:'Project introduction',
         f_24:'HOY (Houyi Coin) is a global one-stop NFT service platform created by Rabbit Community, which is committed to combining blockchain technology with art collection innovation, and making art return to the masses.',
         f_29_2:'Partners',
